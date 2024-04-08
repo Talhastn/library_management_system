@@ -22,11 +22,39 @@ def password_control():
         reader = csv.reader(f, delimiter=",")
         for row in reader:
             if row[1] == login_password.get():
+                try:
+                    wrong_password.destroy()
+                except:
+                    pass
                 home_page()
             else:
                 wrong_password = ctk.CTkLabel(master=window, text="Wrong password", font=ctk.CTkFont(size=20, weight="bold"),
                                           text_color="red")
                 wrong_password.place(relx=0.59, rely=0.75, anchor=ctk.CENTER)
+
+
+def sign_in_password():
+    global wrong_password2, login_again
+
+    with open("users.csv", "a") as f:
+        writer = csv.writer(f, delimiter=",")
+        if signin_password.get() == signin_password_again.get():
+            try:
+                wrong_password2.destroy()
+            except:
+                pass
+            user_list = [mail, signin_password.get()]
+            writer.writerow(user_list)
+            login_again = ctk.CTkLabel(master=window, text="Log in again",
+                                       font=ctk.CTkFont(size=20, weight="bold"),
+                                       text_color="green")
+            login_again.place(relx=0.59, rely=0.75, anchor=ctk.CENTER)
+            login()
+        else:
+            wrong_password2 = ctk.CTkLabel(master=window, text="Wrong password", font=ctk.CTkFont(size=20, weight="bold"),
+                                          text_color="red")
+            wrong_password2.place(relx=0.59, rely=0.75, anchor=ctk.CENTER)
+
 
 
 def mail_control():
@@ -47,18 +75,35 @@ def mail_control():
         pass
 
     if (re.fullmatch(regex, mail)):
-        if mail == login_mail.get():
-            with open("users.csv", "r")as f:
-                reader = csv.reader(f, delimiter=",")
-                for row in reader:
-                    if row[0] == mail:
-                        password_control()
-                    else:
-                        wrong_mail = ctk.CTkLabel(master=window, text="Wrong mail",
-                                                  font=ctk.CTkFont(size=20, weight="bold"), text_color="red")
-                        wrong_mail.place(relx=0.59, rely=0.75, anchor=ctk.CENTER)
-        elif mail == signin_mail.get():
-            print("Signin ile dogru e posta saglandi")
+        try:
+            if mail == login_mail.get():
+                with open("users.csv", "r")as f:
+                    reader = csv.reader(f, delimiter=",")
+                    for row in reader:
+                        if row[0] == mail:
+                            password_control()
+                        else:
+                            wrong_mail = ctk.CTkLabel(master=window, text="Wrong mail",
+                                                      font=ctk.CTkFont(size=20, weight="bold"), text_color="red")
+                            wrong_mail.place(relx=0.59, rely=0.75, anchor=ctk.CENTER)
+        except:
+            pass
+
+        try:
+            if mail == signin_mail.get():
+                with open("users.csv", "r") as f:
+                    print(mail)
+                    reader = csv.reader(f, delimiter=",")
+                    for row in reader:
+                        print(row[0])
+                        if row[0] == mail:
+                            wrong_mail = ctk.CTkLabel(master=window, text="e-mail is used",
+                                                      font=ctk.CTkFont(size=20, weight="bold"), text_color="red")
+                            wrong_mail.place(relx=0.59, rely=0.75, anchor=ctk.CENTER)
+                            exit(mail_control)
+                    sign_in_password()
+        except:
+            pass
     else:
         wrong_mail = ctk.CTkLabel(master=window, text="Wrong mail", font=ctk.CTkFont(size=20, weight="bold"), text_color="red")
         wrong_mail.place(relx=0.59, rely=0.75, anchor=ctk.CENTER)
@@ -84,6 +129,7 @@ def login():
         signin_password.destroy()
         signin_button.destroy()
         signin_label.destroy()
+        login_again.destroy()
     except:
         pass
     login_label = ctk.CTkLabel(master = window, text="LOGIN", font=ctk.CTkFont(size=60, weight="bold"))
@@ -145,9 +191,21 @@ def home_page():
         sidebar_button_1.destroy()
         sidebar_button_2.destroy()
         login_label.destroy()
-        signin_label.destroy()
+
     except:
         pass
+
+    try:
+        signin_label.destroy()
+        signin_button.destroy()
+        signin_password_again.destroy()
+        signin_password.destroy()
+        signin_mail.destroy()
+        wrong_password2.destroy()
+        wrong_mail.destroy()
+    except:
+        pass
+
 
     look_books = ctk.CTkButton(master=sidebar_frame, text="View of books", command = view_books)
     look_books.place(relx=0.5, rely=0.1, anchor=ctk.CENTER)
@@ -169,23 +227,34 @@ def show_value(selected_option):
     with open("library.csv", "r", newline="") as f:
         reader = csv.reader(f, delimiter=",")
         for row in reader:
-            if row[0] == selected_option:
+            if row[1] == selected_option:
                 title_label = ctk.CTkLabel(master=window, text=selected_option, font=ctk.CTkFont(size=12))
-                title_label.place(relx=0.70, rely=0.3)
-                author_label = ctk.CTkLabel(master=window, text=row[1], font=ctk.CTkFont(size=12))
-                author_label.place(relx=0.70, rely=0.4)
+                title_label.place(relx=0.65, rely=0.25)
+                author_label = ctk.CTkLabel(master=window, text=row[0], font=ctk.CTkFont(size=12))
+                author_label.place(relx=0.65, rely=0.4)
                 publisher_label = ctk.CTkLabel(master=window, text=row[2], font=ctk.CTkFont(size=12))
-                publisher_label.place(relx=0.70, rely=0.5)
+                publisher_label.place(relx=0.65, rely=0.55)
+                page_label = ctk.CTkLabel(master=window, text=row[3], font=ctk.CTkFont(size=12))
+                page_label.place(relx=0.65, rely=0.70)
 
 
 def view_books():
-    books_listbox = CTkListbox(master = window, command=show_value, height=300, width=200)
-    books_listbox.place(relx = 0.3, rely= 0.1)
+    books_listbox = CTkListbox(master = window, command = show_value, height=300, width=200)
+    books_listbox.place(relx = 0.3, rely = 0.1)
+    title_label_word1 = ctk.CTkLabel(master=window, text="Book Name", font=ctk.CTkFont(weight="bold"))
+    title_label_word1.place(relx = 0.65, rely = 0.20)
+    title_label_word2 = ctk.CTkLabel(master=window, text="Book Author", font=ctk.CTkFont(weight="bold"))
+    title_label_word2.place(relx = 0.65, rely = 0.35)
+    title_label_word3 = ctk.CTkLabel(master=window, text="Published Year", font=ctk.CTkFont(weight="bold"))
+    title_label_word3.place(relx = 0.65, rely = 0.50)
+    title_label_word4 = ctk.CTkLabel(master=window, text="Pages", font=ctk.CTkFont(weight="bold"))
+    title_label_word4.place(relx = 0.65, rely = 0.65)
+
     i = 0
     with open("library.csv", "r", newline="") as f:
         reader = csv.reader(f, delimiter=",")
         for row in reader:
-            books_listbox.insert(i, row[0])
+            books_listbox.insert(i, row[1])
             i += 1
 
 def change_appearance_mode_event(new_appearance_mode: str):
