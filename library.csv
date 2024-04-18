@@ -1,27 +1,14 @@
-Author,Books,Year Published,Pages
 Jean-Jacques Rousseau,The Confessions,1781,606
 Erich Fromm,The Art of Loving,1956,146
 Mark Twain,The Adventures of Huckleberry Finn,1884,288
 James Thurber,My Life and Hard Times,1933,115
 William Shakespeare,Romeo and Juliet,1596,146
-John Barth,The End of the Road,1958,206
-Aldous Huxley,Brave New World,1932,199
-Fritz Peters,Boyhood with Gurdjieff,1964,174
-P.D. Ouspensky,In Search of the Miraculous,1949,389
-Russell H. Miles,"Johann Sebastian Bach, an Introduction to his Life and Works",1962,0
-Hunter Davies,The Beatles,1968,340
-P.D. Ouspensky,The Strange Life of Ivan Osokin,1955,166
-René Daumal,Mount Analogue,1952,106
 Bernard Malamud,The Assistant,1957,192
-C.G. Jung,"Memories, Dreams, Reflections",359,0
-Philip Roth,"Goodbye, Columbus",1959,0
 Malcolm X and Alex Haley,Autobiography,1964,460
-"Jule Eisenbud, M.D.",The World of Ted Serios,1968,0
 Penelope Gilliatt,A State of Change,1967,221
 Oscar Wilde,The Picture of Dorian Gray,1891,234
 Joseph Heller,Catch 22,1961,463
 Voltaire,Candide,1758,144
-F. Scott Fitzgerald,The Great Gatsby,1925,182
 L.N. Tolstoy,War and Peace,1869,1444
 Philip Roth,Portnoy's Complaint,1969,274
 George Orwell,Down and Out in Paris and London ,1933,155
@@ -41,7 +28,6 @@ Honoré de Balzac,Eugénie Grandet,1833,248
 Bertrand Russell,The Conquest of Happiness,1930,180
 Margaret Mead,Culture and Commitment,1970,97
 Jane Austen,Sense and Sensibility,1811,349
-L.N. Tolstoy,"Childhood, Boyhood, Youth",319,0
 Norman Zierold,Garbo,1969,157
 Joan Didion,Play It as It Lays,1970,152
 Anais Nin,Diary,1934,358
@@ -58,7 +44,6 @@ William Shakespeare,King Lear,1605,138
 Johann Wolfgang Goethe,Elective Affinities,1809,300
 William J. Mitchell,Elementary Harmony,1965,230
 Edmund S. Morgan,The Birth of the Republic,1956,157
-Kenneth A. Lockridge,"A New England Town, the First One Hundred Years",1969,0
 Mary Renault,The Charioteer,1961,347
 L.N. Tolstoy,Anna Karenina,1873,852
 Milovan Djilas,The New Class,1957,214
@@ -73,7 +58,6 @@ Charles Dickens,American Notes,1842,320
 W.J. Cash,The Mind of the South,1941,440
 William Faulkner,The Wild Palms,1939,317
 Thomas Hardy,Tess of the D'Urbervilles,1902,517
-Irving Bieber,"Homosexuality, a Psychoanalytic Survey",1955,0
 André Gide,The Immoralist,1903,171
 Dee Brown,Bury My Heart at Wounded Knee,1971,421
 Gabriel Garcia Marques,One Hundred Years of Solitude,1970,383
@@ -81,13 +65,11 @@ Jane Austen,Pride and Prejudice,1797,430
 Sarah N. Randolph,The Domestic Life of Thomas Jefferson,1939,384
 Daniel Boorstin,The Lost World of Thomas Jefferson,1948,248
 Peter McCabe and Robert D. Schonfeld,Apple to the Core,1972,200
-E.N. da C. Andrade,"Sir Isaac Newton, His Life and Work",1954,0
 John Kenneth Galbraith,Economics and the Public Purpose,1973,324
 Anne F. Scott,The Southern Lady,1970,231
 Georges Lefebvre,The Coming of the French Revolution,1947,220
 Konrad Lorenz,On Aggression,1966,290
 Bette Davis,The Lonely Life,1962,254
-Merle Miller,"Plain Speaking, an Oral Biography of Harry S. Truman",1973,0
 Vladimir Nabokov,Transparent Things,1972,158
 Jane Austen,Persuasion,1818,254
 Jim Bouton,Ball Four,1970,369
@@ -101,12 +83,10 @@ Chaim Potok,The Chosen,1969,416
 Sir Arthur Conan Doyle,The Adventures of Sherlock Holmes,1892,248
 Richard Hofstadter,America at 1750,1973,292
 Graham Greene,The End of the Affair,1951,240
-Clive Davis,"Clive, Inside the Record Business",1974,0
 Robert A. Caro,The Power Broker,1974,1162
 Henry James,Portrait of a Lady,1881,545
 Nicholas Meyer,The Seven Per-Cent Solution,1974,234
 William M. Thackeray,Memoirs of Barry Lyndon,1854,324
-"Kurt Vonnegut, Jr.",Breakfast of Champions,1973,0
 F. Scott Fitzgerald,The Last Tycoon,1941,163
 Rollo May,The Courage to Create,1975,140
 Aaron Copland,Copland on Music,1960,280
@@ -115,7 +95,6 @@ Curtis Cate,George Sand,1975,732
 John S. Shelton,Geology Illustrated,1966,424
 Saul Bellow,To Jerusalem and Back,1976,182
 Saul Bellow,Humboldt's Gift,1973,472
-Robert Wm. Fogel and Stanley L. Engerman,"Time On the Cross, the Economics of American Negro Slavery",1974,0
 Colin McEvedy,The Penguin Atlas of Medieval History,1961,90
 R.D. Laing,Do You Love Me?,1976,86
 C.G. Jung,The Undiscovered Self,1957,125
@@ -129,14 +108,11 @@ Henry James,The Ambassadors,1903,397
 Bulfinch,Mythology,1855,236
 Gail Sheehy,Passages,1976,514
 William Shakespeare,Richard III,1595,148
-J. Hector St. John de Crevecoeur,Letters from an American Farmer,1782,225
-Norman Mailer,"Genius and Lust, a Journey through the Major Writings of Henry Miller",1976,0
 Charles Darwin,The Origin of Species,1859,460
 Robert M. Pirsig,Zen and the Art of Motorcycle Maintenance,1974,406
 Erik Erikson,Childhood and Society,1950,424
 Marcel Proust,Swann's Way,1928,325
-Columbia College,"Chapters in Western Civilization, Vol. 1",1954,0
-Plato,"The Last Days of Socrates, Euthyphro, The Apology, Phaedo",390bc,199,1
+Plato,"The Last Days of Socrates, Euthyphro, The Apology, Phaedo",390bc,199
 Chie Nakane,Japanese Society,1970,151
 Homer,The Iliad,730bc,459
 Plato,The Symposium,385bc,122
@@ -154,7 +130,6 @@ James Joll,European History since 1870,1973,486
 Norman Mailer,Marilyn,1974,262
 Jean Rhys,"Good Morning, Midnight",1974,1
 John Irving,The World According to Garp,1976,609
-Plato,"The Protagoras, The Meno",430bc,0
 Richard Price,Ladies' Man,1978,264
 James M. Cain,The Postman Always Rings Twice,1934,120
 Jean Rhys,Voyage in the Dark,1934,159
@@ -172,21 +147,18 @@ Isaac Bashevis Singer,The Slave,1962,287
 John Dewey,Liberalism and Social Action,1935,93
 Studs Turkel,Working,1972,762
 Charles Dickens,Great Expectations,1861,512
-Jean-Jacques Rousseau,"Botany, a study of pure curiosity",1781,0
 Henry James,The American,1875,325
 Len Jenkin,New Jerusalem,1985,204
 Jean Dorst,"The Life of Birds, vol. 1",1971,1
 Marcel Proust,Within a Budding Grove,1920,386
 Lester C. Thurow,The Zero-Sum Society,1980,214
 John Huston,An Open Book,1980,373
-Mordecai Richler,"Joshua, Then and Now",1980,0
 W.X.C. Guthrie,Socrates,1969,187
 Jonathan Miller,The Body in Question,1978,341
 Edward Gibbon,The Decline and Fall of the Roman Empire (Abridged),1787,713
 J.P. Donleavy,"The Destinies of Darcy Dancer, Gentleman",1977,1
 James Joyce,A Portrait of the Artist as a Young Man,1916,253
 John Steinbeck,The Acts of King Arthur and His Noble Knights,1976,349
-J.D. Salinger,"uncollected short stories, vol. 2 (containing ""The Inverted Forest"")",1947,0
 Gary Zukav,The Dancing Wu Li Masters,1979,332
 Johann Wolfgang Goethe,Faust (part one),1805,197
 David Halberstam,The Powers That Be,1979,1027
@@ -210,9 +182,7 @@ Gustave Flaubert,The Dictionary of Accepted Ideas,1882,92
 Baldesar Castiglione,The Book of the Courtier,1518,345
 Charles Major,When Knighthood Was in Flower,1898,294
 Giovanni Pico della Mirandola,Oration on the Dignity of Man,1487,69
-"David C. Gompert, Michael Mandelbaum, Richard L. Garwin, John H. Barton",1977,354,0
 D.M. Thomas,The White Hotel,1981,240
-"Willard Gaylin, Ira Glasser, Steven Marcus, David Rochman",1978,168,0
 Jane Austen,Emma,1816,471
 John Calvin,On God and Political Duty,1535,121
 Leon Edel,Henry James - The Middle Years: 1882--1895,1962,389
@@ -247,14 +217,12 @@ Stephen Jay Gould,Ever Since Darwin,1977,271
 Mikhail Bulgakov,The Master and Margarita,1940,402
 John Le Carré,"Tinker, Tailor, Soldier,1974,317,0
 Thornton Wilder,The Bridge of San Luis Rey,1927,124
-Various,"Introduction to Contemporary Civilization in the West, Vol. 1",1960,0
+Various,Introduction to Contemporary Civilization in the West", Vol. 1,1960
 Jean-Jacques Rousseau,The Confessions,1781,606
 Tom Wolfe,The Painted Word,1975,120
 Patrick Humphries,Bookends - The Simon and Garfunkel Story,1982,186
 Emil Ludwig,Napoleon,1926,682
 Jean-Jacques Rousseau,The Social Contract and ,1762,226
-Jean-Jacques Rousseau,The Social Contract and Discourse on the Origin of Inequality,1762,226
-Arnt Eliassen and Kaare Pedersen,"Meteorology, an Introductory Course, Vol. 1 chapters 1, 3",1977,135,0
 Jean-Jacques Rousseau,Reveries of the Solitary Walker,1778,155
 Henry David Thoreau,Walden,1854,247
 Peter Gay,The Enlightenment (The Rise of Modern Pagasm) *,1966,419
@@ -274,21 +242,15 @@ Elie Wiesel,The Testament,1981,261
 Tom Stoppard,Albert's Bridge,1969,116
 Tom Stoppard,If You're Glad I'll Be Frank,1969,116
 Tom Stoppard,Artist Descending a Staircase,1973,116
-"Sappho, Pindar, Solon, and 23 others",500bc,82,0
 Robertson Davies,One Half of Robertson Davies,1978,286
 Basile Kerblay,Modern Soviet Society,1983,306
 James Joyce,Ulysses,1921,783
 Jim Harrison,Farmer,1976,160
 Michel de Montaigne,Travel Journal,1580,175
 Richard Price,Ladies' Man,1978,264
-William Maxwell,"So Long, See You Tomorrow",1980,0
 William Shakespeare,Ages of Man: readings by John Gielgud,1600,93
 J.D. Salinger,Nine Stories,1953,198
-W. Edward Mann and Edward Hoffman,The Man Who Dreamed of Tomorrow: The Life and Thought of Wilhelm Reich,1980,253
 Hallie Burnett,On Writing the Short Story,1983,148
-J.D. Salinger,"Uncollected Short Stories, Vol. 1",1946,0
-"William Strunk, Jr. and E.B. White",The Elements of Style,1959,0
-Thomas Mann,The Confessions of Felix Krull Confidence Man (The Early Years),1955,378
 Guy de Maupassant,A Woman's Life,1883,202
 Thomas Hardy,The Distracted Preacher' and four other short stories,1888,175
 Anton Chekhov,'The Kiss' and other short stories,1902,168
@@ -312,8 +274,6 @@ Edmund Wilson,Axel's Castle,1931,235
 C.S. Forster,Mr. Midshipman Hornblower,1941,252
 Alexander Pushkin,Eugene Onegin,1830,233
 Mikhail Lermontov,A Hero of Our Time,1839,185
-Colin McEvedy,"The Penguin Atlas of Recent History, Europe since 1815",1982,0
-Gustav Flaubert,"""A Simple Heart"", ""The Legend of St. Julian Hospitator""",1876,0
 Iris Murdoch,A Severed Head,1961,205
 Jean de La Fontaine,Selected Fables,1693,141
 William Shakespeare,Othello,1604,154
@@ -349,7 +309,6 @@ Nora Ephron,Heartburn,1983,223
 Fritjof Capra,The Tao of Physics,1975,311
 Lao Tsu,Tao Te Ching,600bc,81
 Leon Edel,Bloomsbury - A House of Lions,1979,299
-Judith Martin,Miss Manners Guide to Excruciatingly Correct Behavior,1979,555
 L.N. Tolstoy,Confession,1879,93
 Alice Walker,The Color Purple,1982,251
 Richard Ellmann,James Joyce,1959,744
@@ -374,9 +333,7 @@ Various,The Colour of Saying Anthology of Verse,1963,170
 Gene A. Brucker,Renaissance Florence,1969,280
 Edward I. Koch,Politics,1985,246
 Giorgio Vasari,Lives of the Artists,1568,477
-Julian Jaynes,The Origin of Consciousness in the Breakdown of the Bicameral Mind,1976,446
 G. William Domhoff,Who Rules America Now?,1983,223
-Martin Heidegger,"Poetry, Language, Thought",229,0
 Alan S. Parkes,Patterns of Sexuality and Reproduction,1976,141
 Edmund Gosse,Father and Son,1907,251
 John Gardner,Self-Renewal,1981,127
@@ -385,10 +342,8 @@ E.M. Forster,Howard's End,1910,271
 Gaston Bachelard,The Poetics of Space,1958,241
 William Kennedy,Ironweed,1983,227
 Homer,The Odyssey,700bc,365
-James Joyce,"Selected Letters, edited by Richard Ellman",1957,0
 Moss Hart,Act One,1959,383
 Vladimir Nabokov,The Enchanter,1939,95
-Ralph Waldo Emerson,"The Heart of Emerson's Journals, 1820-75",1875,0
 Harold C. Schonberg,The Lives of the Great Composers,1970,627
 David A. Stockman,The Triumph of Politics,1986,411
 Stanislaus Joyce,The Dublin Diary of Stanislaus Joyce,1904,114
@@ -404,17 +359,14 @@ Michel Montaigne,Essays,1580,406
 Marcel Proust,Cities of the Plain,1913,378
 Peter Gay,The Bourgeois Experience Education of the Senses,1984,460
 Sigmund Freud,The Ego and the Id,1923,49
-V.I. Lenin,"Imperialism, The Highest Stage of Capitalism",1916,0
 Larry McMurtry,Lonesome Dove,1985,945
 A.J. Liebling,Between Meals,1959,185
 Peter Fornatale & Joshua E. Mills,Radio in the Television Age,1980,196
 Martin Amis,Einstein's Monsters,1987,149
 Barry Lopez,Arctic Dreams,1986,372
 Doris Lessing,The Golden Notebook,1962,666
-Various,"The Practical Cogitator, The Thinker's Anthology",1945,0
 James Branch Cabell,Jurgen,1919,368
 Heinrich Heine,Deutschland,1843,100
-Max I. Dimont,"Jews, God and History",1962,0
 Jorge Luis Borges,An Introduction to American Literature,1967,90
 Marco Polo,The Travels,1298,345
 Martin Heidegger,Discourse on Thinking,1955,90
@@ -433,7 +385,6 @@ Robert Roberts,The Classic Slum,1971,238
 Colette,Break of Day,1928,117
 André Malraux,Man's Fate,1934,338
 Jean Racine,Andromache,1672,111
-"Roger Fisher, William Ury",Getting to Yes,1981,0
 Ernst Cassirer,Language and Myth,1946,99
 Mikhail Gorbachev,Perestroika,1987,254
 Adin Steinsaltz,The Essential Talmud,1976,275
@@ -447,12 +398,9 @@ Mark Twain,Tom Sawyer Abroad and Tom Sawyer Detective,1896,211
 Fyodor Dostoevsky,Notes from the Underground,1864,158
 Gretel Ehrlich,The Solace of Open Spaces,1985,131
 Henry Fielding,Joseph Andrews,1742,298
-George Holmes,"The Later Middle Ages, 1272--1485",1962,0
-David J. Garrow,"The F.B.I. and Martin Luther King, Jr.",1981,0
 George Eliot,Middlemarch,1872,908
 John Dos Passos,The 42nd Parallel,1930,414
 Anonymous,The Vinland Sagas,1250,105
-"Michael J. Malbin, ed.",Money and Politics in the United States,1984,0
 Donald T. Regan,For the Record,1988,379
 Benjamin Franklin,The Autobiography and other writings,1790,260
 Elia Kazan,A Life,1988,825
@@ -463,7 +411,6 @@ Albert Einstein,Sidelights on Relativity,1921,56
 Confucius,The Analects,500bc,160
 Yasunari Kawabata,The Lake,1954,160
 Marcel Proust,On Reading,1905,67
-Richard Hofstadter,"""The Paranoid Style in American Politics and Other Essays""",1965,315
 collected, The Poet's Work,1977,294
 Seneca,Epistulae Morales vol. 1,65,229
 Vladimir Nabokov,The Portable Nabokov,1968,536
@@ -478,7 +425,6 @@ P.P. Xahane,Ancient and Classical Art,1967,200
 Charles Baudelaire,Paris Spleen,1869,108
 Willa Cather,O Pioneers!,1913,309
 Nadine Gordimer,The Late Bourgeois World,1966,95
-Jean Corst,"The Life of Birds, vol. 2",1971,0
 Voltaire,Philosophical Dictionary,1764,400
 John Stoye,Europe Unfolding 1648-1688,1969,399
 E.L. Doctorow,Billy Bathgate,1989,323
@@ -505,7 +451,6 @@ Theodore Dreiser,An American Tragedy,1925,828
 Santoru Izumi,Guidelines to Faith,1980,160
 Robert Louis Stevenson,Travels with a Donkey,1879,126
 James D. Watson,The Double Helix,1968,231
-"Noam Chomsky, Edward S. Herman",Manufacturing Consent,1988,0
 Anthony Trollope,An Autobiography,1883,367
 Joseph Campbell (with Bill Moyers),The Power of Myth,1988,231
 Henry Miller,Quiet Days in Clichy,1940,154
@@ -521,7 +466,6 @@ Anne Rice,Interview With the Vampire,1976,346
 Charles R. Morris,The Cost of Good Intentions,1980,240
 Various,The Portable Renaissance Reader,1500,754
 Jerrold Seigel,Bohemian Paris,1986,397
-"Paul Magriel, John T. Spike",A Connoisseur's Guide to the Met,1987,0
 Mark Twain,The Innocents Abroad,1867,492
 Sylvia Plath,The Bell Jar,1963,216
 George F. Will,Men at Work,1990,330
@@ -529,8 +473,6 @@ Edith Hamilton,Mythology,1940,321
 Ernest Hemingway,A Moveable Feast,1960,211
 Edith Wharton,Ethan Frome,1911,133
 J.F. Stone,The Trial of Socrates,1988,230
-"Daniel Bates, Amal Rassam",Peoples and Cultures of the Middle East,1983,0
-Aristophanes,"""The Knights,"" ""Peace,"" ""The Birds,388bc,285,0
 Tacitus,The Histories,98,287
 Carrie Fisher,Surrender the Pink,1990,281
 John McPhee,Rising from the Plains,1986,214
@@ -543,7 +485,6 @@ William Thackeray,The History of Henry Esmond,1852,513
 Rachel Carlson,Silent Spring,1962,297
 Charles Grodin,It Would Be So Nice If You Weren't Here,1989,308
 Will and Ariel Durant,The Story of Civilization VIII:,1963,74
-Will and Ariel Durant,The Story of Civilization VIII: The Age of Louis XIV,1963,74
 Margaret Mead,Coming of Age in Samoa,1928,197
 Thomas L. Friedman,From Beirut to Jerusalem,1989,525
 Daphne du Maurier,Jamaica Inn,1936,247
@@ -554,8 +495,6 @@ Marcel Proust,The Captive,1921,289
 Thomas Hardy,Under the Greenwood Tree,1872,241
 Arthur Koestler,Darkness at Noon,1940,216
 Herbert Marcuse,Eros and Civilization,1955,274
-edited by F. Stephen Larrabee,The Two German States and European Security,1988,307
-Marc Bloch,"Feudal Society, vol. 2",1961,0
 Oscar Hijuelos,The Mambo Kings Play Songs of Love,1989,407
 Jim Harrison,Dalva,1988,324
 William Pfaff,Barbarian Sentiments,1989,189
@@ -565,9 +504,7 @@ Paul Fussell,Bad,1991,201
 William Styron,The Confessions of Nat Turner,1966,429
 Sigmund Freud,The Future of an Illusion,1927,81
 A.R. Myers,England in the Late Middle Ages,1952,262
-"Paul Hohenberg, Lynn Hollen Lees",The Making of Urban Europe 1000--1950,1985,0
 Leonardo Da Vinci,The Notebooks of Leonardo Da Vinci,1490,392
-"Joseph Morella, Patricia Barey",Simon and Garfunkel,1991,0
 Sun Tzu,The Art of War,400bc,149
 Aleksandr Solzhenitsyn,Rebuilding Russia,1990,106
 H.G. Wells,A Short History of the World,1922,357
@@ -582,9 +519,7 @@ Andreas Capellanus,The Art of Courtly Love,1180,59
 William Faulkner,The Sound and the Fury,1931,284
 Nathaniel Hawthorne,The House of the Seven Gables,1851,245
 Edmund Burke,Reflections on the Revolution in France,1790,290
-Nikolai Gogol,"""Diary of a Madman,"" ""The Nose,"" ""The Overcoat""",108,0
 William Shakespeare,"""The Trajedy of Julius Caesar""",1599,102
-"Donald L. Barlett, James B. Steele",America: What Went Wrong?,1992,0
 Emil Ludwig,The Nile,1936,603
 Patrick J. Geary,Before France & Germany,1988,231
 Denis Diderot,The Nun,1760,188
@@ -592,7 +527,6 @@ Richard Selzer,Mortal Lessons - Notes on the Art of Surgery,1974,217
 Ben H. Bagdikian,The Media Monopoly,1983,251
 Cyril Aldred,Egyptian Art,1980,240
 Nathaniel Hawthorne,The Blithedale Romance,1852,247
-"Ben Weider, David Hapgood",The Murder of Napoleon,1982,0
 Elie Wiesel,A Jew Today,1978,247
 Livy,Rome and the Mediterranean,17,654
 Oliver Sacks,The Man Who Mistook His Wife for a Hat,1985,233
@@ -606,7 +540,6 @@ George Eliot,Silas Marner,1861,190
 Harry Crews,Body,1990,240
 Hermann Hesse,Demian,1919,179
 Jean Piaget,Six Psychological Studies,1964,157
-William Faulkner,"Absalom, Absalom!",1936,0
 David King Dunaway,Huxley in Hollywood,1989,402
 Evelyn Waugh,Brideshead Revisited,1945,331
 Unknown,anthology: The European Security Framework in Transition 1984-92,1992,172
@@ -636,7 +569,6 @@ V.S. Pritchett,The Offensive Traveller,1964,241
 Peter B. High,An Outline of American Literature,1986,241
 Susan Sontag,AIDS and Its Metaphors,1988,95
 Françoise Sagan,Bonjour Tristesse,1954,108
-Sherwood Anderson,"Winesburg, Ohio",1919,0
 Flannery O'Connor,Mystery and Manners,1969,228
 Henry James,The Turn of the Screw,1898,160
 Thornton Wilder,The Cabala,1926,230
@@ -682,8 +614,6 @@ J.H. Plumb,England in the Eighteenth Century,1950,214
 P.D. Ouspensky,The Psychology of Man's Possible Evolution,1934,128
 Carson McCullers,The Heart is a Lonely Hunter,1940,307
 Joyce Carol Oates,Black Water,1992,154
-"editor, Eric L. McKitrick",Slavery Defended,1857,0
-"Don, Jeanne Elium",Raising a Son,1992,0
 Patrick O'Brian,Master and Commander,1970,412
 Russell Banks,Continental Drift,1985,366
 Vyasa,The Bhagavad Gita,500bc,122
@@ -704,11 +634,8 @@ Various,Latin Literature - an Anthology,400,456
 James Boswell,The Life of Samuel Johnson,1791,342
 Robert D. Kaplan,Balkan Ghosts,1993,300
 anonymous,Primary Colors,1996,366
-William Shakespeare,"""Henry IV, Part One""",1597,0
 Russell Baker,Growing Up,1982,348
 Gustave Flaubert,Flaubert in Egypt,1850,222
-"Robin, Liza, Linda, Tiffany",1996,251,0
-Robert Graves,"I, Claudius",1934,0
 Stephen Birmingham,"""Our Crowd""",1967,446
 Peter I. Pressman and Yahsar Hirshaut,Breast Cancer,1992,265
 Lester C. Thurow,The Future of Capitalism,1996,327
@@ -726,14 +653,11 @@ Michael Herr,Dispatches,1978,278
 H.G. Wells,The Invisible Man,1897,139
 David Baldacci,Absolute Power,1996,505
 Simone DeBeauvoir,The Second Sex,1952,732
-"Henry Fielding, Daniel Defoe",Jonathan Wild,1743,0
 Mary Karr,The Liars' Club,1995,320
-Robin Dunbar,"Grooming, Gossip, and the Evolution of Language",230,0
 G.K. Chesterton,The Club of Queer Trades,1905,126
 Bryce Lyon,The Origins of the Middle Ages,1972,87
 Antoine de Saint Exupery,Night Flight,1932,87
 Charles and Mary Lamb,Tales from Shakespeare,1807,313
-Sir Thomas Malory,"Le Morte D'Arthur, vol. 1 book I-VII",1485,0
 Alcoholics Anonymous,Twelve Steps and Twelve Traditions,1952,192
 Don DeLillo,Mao II,1991,241
 Jules Verne,Around the World in Eighty Days,1873,163
@@ -742,8 +666,6 @@ Peter Gay,The Enlightenment - The Science of Freedom,1969,568
 Harry Crews,A Feast of Snakes,1976,177
 Jean-Jacques Rousseau,Émile,1760,568
 Hermann Hesse,Narcissus and Goldmund,1930,312
-"Aristotle, Horace",Classical Literary Criticism,10bc,0
-Ernest Hemingway,"Fiesta, The Sun Also Rises",1927,0
 Keith B. Richburg,Cut of America,1997,254
 Lincoln Steffens,The Shame of the Cities,1904,222
 Choderlos DeLaclos,Les Liaisons Dangereuses,1782,412
@@ -780,11 +702,9 @@ Richard Causton,The Buddha in Daily Life,1988,294
 Mitch Albom,Tuesday with Morrie,1997,192
 D.H. Lawrence,Sons and Lovers,1913,484
 Alessandro Baricco,Silk,1997,91
-Morris Goldstein,"The Asian Financial Crisis: Causes, Cures, and Systemic Implications",67,0
 Jimmy Webb,Tunesmith,1998,423
 Henry James,The Golden Bowl,1904,555
 Jean Rhys,Quartet,1928,186
-Edward W. Said,Covering Islam,"1,981",0
 Jorge Luis Borges,Other Inquisitions,1952,187
 Bill Gates,The Road Ahead,1996,322
 Arthur Golden,Memoirs of a Geisha,1997,428
@@ -828,7 +748,6 @@ Michael Lewis,The New New Thing,2000,272
 Jacques Barzun,From Dawn to Decadence,2000,802
 Samuel Butler,Alps & Sanctuaries,1881,336
 Alexander Dumas,The Three Musketeers,1844,592
-Samuel Eliot Morison,"Christopher Columbus, Mariner",1942,0
 Madame de Lafayette,The Princess of Cleves,1677,288
 Tom Wolfe,A Man in Full,1998,742
 John Milton,Samson Agonistes ,1671,170
@@ -843,7 +762,6 @@ Honore de Balzac,The Physiology of Marriage,1824,358
 Saul Bellow,Henderson the Rain King,1958,341
 Dorothy L. Sayers,The Mind of the Maker,1941,229
 Christine Hobson,The World of the Pharoahs,1987,255
-"Horatio Alger, Jr.",Ragged Dick ,1868,0
 Henry Kissinger,A World Restored,1957,535
 Honore de Balzac,The Chouans ,1827,238
 Tom King,The Operator ,2000,690
@@ -851,7 +769,6 @@ Lord Byron,The Selected Letters of Lord Byron,1798,276
 Jean-Jacques Rousseau,La Nouvelle Heloise,1758,728
 Walter Bagehot,Physics and Politics,1872,100
 Dan O'Brien,The Rites of Autumn,1988,192
-"Michael E. Porter, Hirotaka Takeuchi, Mariko Sakakibara",Can Japan Compete?,224,0
 Sarah Faunce,Courbet,1993,245
 Virginia Woolf,The Waves ,1931,297
 Peter Paret,Understanding War ,1992,252
@@ -865,7 +782,6 @@ Paramahansa Yogananda,Autobiography of a Yogi,1946,576
 Bernard Lewis,What Went Wrong?,2002,208
 Elizabeth Gaskell,Wives and Daughters,1866,679
 Upton Sinclair,The Jungle ,1905,413
-"Eugene F. Rice, Jr.","The Foundations of Early Modern Europe, 1460-1569",218,0
 Margaret A. Salinger,Dream Catcher ,2000,464
 Henry David Thoreau,Selected Journals of Henry David Thoreau,1862,64
 Jean Rhys,Sleep It Off Lady,1976,176
@@ -875,12 +791,10 @@ W.H. Lewis,The Splendid Century,1953,306
 Robert Hughes,The Fatal Shore,1986,688
 Noam Chomsky,Profit Over People,1999,166
 Henry George,Progress and Poverty,1879,598
-"David Krieger, Daisaku Ikeda",Choose Hope ,2001,0
 Malcolm Lowry,Under the Volcano,1947,423
 Doris Lessing,The Good Terrorist,1985,400
 Viktor E. Frankl,Man's Search for Meaning,1959,165
 Harold Nicolson,Good Behavior,1955,409
-"Lucien Febvr, Henri-Jean Martin",Good Behavior,1958,0
 Arthure Levitt,Take on the Street,2002,352
 Charles Bukowski,Post Office,1971,208
 Jose Saramago,The Cove ,2002,307
@@ -898,7 +812,6 @@ James Lord,A Giacometti Portrait,1965,128
 Karen Armstrong,Budda,2001,240
 Karen Armstrong,Islam,2000,230
 George Eliot,Adam Bede,1859,624
-"Daisaku Ikeda, Majid Tehranian",Global Civilization - A Buddist Islanic Dialogue,2003,0
 Graham Greenauthor,The Third Man,1950,157
 Robert A. Caro,The Years of Lyndon Johnson - Master of the Senate,2002,1232
 Horace Mann,The Republic and the School,1848,112
@@ -907,7 +820,6 @@ Claude Mettra,Bruegel,1977,45
 J. M. Coetzee,Waiting for the Barbarians,1980,152
 Dan Brown,The Da Vinci Code,2003,489
 Gustave Flaubert,Memoirs of a Madman,1837,86
-Aristophanes,"""The Acharnians"", ""The Clouds"", ""Lysistrata""",256,0
 Tacey Chevalier,Girl With a Pearl Earing,1999,233
 Harold Bloom,The Western Canon,1994,546
 Walter Pater,The Renaissance,1873,208
@@ -924,26 +836,19 @@ John Bunyan,The Pilgrim's Progress,1684,324
 Bill Moyers,Moyers on America,2004,256
 Walt Whitman,Specimen Days,1865,228
 Paulo Coelho,Eleven Minutes,2004,273
-John Boswell,"Christianity, Social Torerance and Homosexuality",1980,0
 Lawrence Potter,The Persian Gulf in Transition ,1997,336
 Immanuel Kant,Perpetual Peace ,1795,160
-Bob Dylan,"Chronicles, vol. 1 ",2004,0
 Arthur Koestler,The Gladiators ,1949,44
 Richard L. Bushman,From Puritan to Yankee ,1967,352
-Arnold Toynbee,"A Study of History, vols I-VI ",1939,0
 Bill McKibben,The End of Nature ,1989,195
-Craig Unger,"House of Bush, House of Saudi ",2004,0
-"Tim LaHaye, Jerry B. Jenkins",Glorious Appearing ,2004,0
 Laurens Van der Post,A Story Like the Wind ,1972,384
 Marilynne Robinson,Gilead,2004,247
 Thomas Carlyle,The French Revolution ,1837,848
 Dalton Trumbo,Johnny Got His Gun,1939,309
-Claude-Anne Lopez,"Mon Cher Papa, Franklin and the Ladies of Paris ",1966,0
 Maureen Dowd,Bushworld,2004,523
 Anton Chekhov,My Life ,1886,150
 J.R. Hale,Renaissance Europe ,1971,352
 E.M. Forster,A Passage to India ,1924,376
-"Robert F. Kennedy, Jr.",Crimes Against Nature ,2004,0
 Jane Leavy,Sandy Koufax ,2003,336
 David McCullough,1776,2005,386
 Frank Norris,The Octopus ,1900,688
@@ -966,9 +871,7 @@ Edith Wharton,The Age of Innocence ,1920,293
 W. Somerset Maugham,Of Human Bondage ,1915,684
 Doris Kearns Goodwin,Team of Rivals,2005,916
 Tony Judt,Postwar,2005,933
-Geoff Emerick,"Here, There, and Everywhere ",400,0
 Wallace Stegner,Angle of Repose ,1971,569
-David Dalton,"James Dean, The Mutant King ",1974,0
 V.S. Naipaul,India: A Wounded Civilisation ,1976,176
 Carlo Collodi,The Adventures of Pinocchio ,1881,96
 D. H. Lawrence,Women in Love ,1916,416
@@ -994,7 +897,6 @@ Iris Murdoch,Jackson's Dilemma,1995,256
 Jonathan Franzen,The Corrections,2001,653
 George W.S. Trow,My Pilgrim's Progress,1999,288
 Heinrich Fichtenau,The Carolingian Empire,1957,196
-Jill Hamilton,"God, Guns and Israel",2004,0
 Sir Thomas More,The History of King Richard III,1557,120
 Jean-Jacques Rousseau,The Confessions,1781,672
 Nathaniel Hawthorne,The Marble Faun,1860,432
@@ -1011,11 +913,8 @@ Leonardo da Vinci,Prophecies,1519,112
 Donald Capps,The Depleted Self,1993,196
 Jean Rhys,Tigers are Better Looking,1927,220
 Reinhold Niebuhr,Leaves from the Notebook of a Tamed Cynic,1928,152
-"John J. Jackson, Jr.",Harlemworld,2001,0
-Edmund Burke,A Philosophical Enquiry into the Origin of our Ideas of the Sublime and Beautiful,1757,208
 Octavio Paz,The Labyrinth of Solitude,1961,398
 V.S. Naipaul,A Bend in the River,1979,326
-Linda Lawrence Hunt,Bold Spirit- Helga Estby's Forgotten Walk Across Victorian America,2003,336
 Fyodor Dostoevsky,The Gambler,1866,160
 Aleksandr Solzhenitsyn,Nobel Lecture,1972,69
 Kenneth Seeskin,Maimonides: A Guide for Today's Perplexed,1991,142
@@ -1029,7 +928,6 @@ Francis Bacon,The Essays,1625,288
 Rose Tremain,Restoration,1989,371
 Lord Macaulay,The History of England,1849,60
 Marguerite Duras,The Lover,1985,117
-Olivier Blanc,Last Letters - Prisons & Prisoners of the French Revolution 1793-94,1987,250
 Thomas Hobbes,Human Nature,1640,344
 John Perkins,Confessions of an Economic Hit Man,2004,303
 Edward W. Said,Orientalism,1978,396
@@ -1038,7 +936,6 @@ Evelyn Waugh,A Handful of Dust,1934,308
 John Lewis Gaddis,The Cold War,2005,352
 Muriel Spark,The Girls of Slender Means,1963,140
 Vali Nasr,The Shia Revival,2006,314
-John Lukacs,"Blood, Toil, Tears and Sweat",240,0
 William Boyd,Restless,2006,336
 Dennis McDouglas,Five Easy Decades,2008,484
 Thomas Wolfe,Of Time and the River,1935,896
@@ -1055,7 +952,6 @@ Edmund White,Rimbaud - The Double Life of a Rebel,2008,192
 Fernand Braudel,The Perspective of the World,1979,699
 Elizabeth Bowen,The Death of the Heart,1938,418
 Henri Troyat,Tolstoy,1965,896
-Jimmy Carter,"Palestine, Peace Not Apartheid",2006,0
 Tom Shachtman,Skyscraper Dreams,1991,380
 George Berkeley,Principles of Human Knowledge,1710,80
 Walter Bagehot,The English Constitution,1867,256
@@ -1086,7 +982,6 @@ Ivan Goncharov,Oblomov,1859,586
 Adam Phillips,Darwin’s Worms,1999,160
 D.A.F. Marquis deSade,Justine,1787,784
 Raymond Postgate,Story of a Year 1848,1956,286
-Oliver Goldsmith,Essays on Miscellaneous Subjects; with an Inquiry Into the Present State of Polite Learning,1774,180
 Paul Ryscavage,Income InEquality in America,1999,242
 Jack London,The SeaWolf,1903,227
 Akira Iriye,The Origins of the Second World War in Asia and the Pacific,1987,214
@@ -1099,7 +994,6 @@ Christopher Caldwell,Reflections on the Revolution in Europe,2009,432
 Polybius,The Rise of the Roman Empire,130,576
 Emile Zola,The Drinking Den,1877,480
 Michael Howard,War in European History,1976,176
-"John Heileman, Mark Halperin",Game Change,2010,0
 W.Somerset Maughan,Cakes and Ale,1930,308
 Sophocles,Oedipus at Colonus,410bc,144
 Jules Feiffer,Backing Into Forward,2011,440
@@ -1116,7 +1010,6 @@ Wilkie Collins,The Woman in White,1860,672
 Kathryn Stockett,The Help,2009,464
 Ron Chernow,The House of Morgan,1990,812
 Doug Glanville,The Game From Where I Stand,2010,276
-"Norman Doidge, M.D.",The Brain That Changes Itself,2007,0
 Louis D. Brandeis,Other People’s Money and How Bankers Use It,1913,168
 Jonathan Franzen,How To Be Alone,2002,306
 Ravi Ravindra,Heart Without Measure,1999,219
@@ -1125,7 +1018,6 @@ Wilkie Collins,Rambles Beyond Railways,1852,195
 Martin Cruz Smith,Gorky Park,1981,433
 James Miller,Examined Lives,2011,432
 Thomas Mann,Doctor Faustus,1947,535
-Luigi Pirandello,"One, No One & One Hundred Thousand",1926,0
 Roderick Frazier Nash,Wilderness & The American Mind,1967,432
 Sinclair Lewis,Main Street,1920,560
 John Muir,A Thousand-Mile Walk to The Gulf,1867,272
@@ -1141,7 +1033,6 @@ Honore de Balzac,The Vendetta,1830,124
 Sara Maitland,A Book of Silence,2008,309
 Stendhal,Memoirs of An Egotist,1832,144
 Hugh Trevor-Roper,History and The Enlightenment,2010,352
-Emile Zola,"For a Night of Love, Nantas, Fasting",100,0
 Yann Martel,Life of Pi,2001,401
 Don Piper with Cecil Murphy,Ninety Minutes in Heaven,2004,207
 Sandro Veronesi,Quiet Chaos,2005,432
@@ -1154,7 +1045,6 @@ Erik Larson,In The Garden Of Beasts,2011,448
 Elie Wiesel,Night,1958,115
 Sanford D. Greenberg,Even This,1953,100
 Nikolai Gogol,The Garden Squabble,1835,119
-"Albert Goldman, Lawrence Schiller",Ladies and Gentlemen: Lenny Bruce!,1971,0
 Muriel Barbery,The Elegance of the Hedgehog,2006,325
 Scotty Bowers,Full Service,2012,288
 Laura Hillenbrand,Unbroken,2010,492
@@ -1163,9 +1053,7 @@ Julie Otsuka,The Buddha in the Attic,2011,129
 Timothy L. Hoffmann,Gone for a Ride,2007,100
 E.L. James,Fifty Shades of Grey,2011,356
 Vladimir Nabokov,Pale Fire,1959,246
-"Benjamin Grahanm, Jason Zweig",The Intelligent Investor,2003,0
 P.G. Wodehouse,Uncle Fred in the Springtime,1939,240
-"Julie Rugg, Linda Murphy",A Book Addict's Treasury,2006,0
 Graham Greene,The Heart of the Matter,1948,272
 Johann Wolfgang von Goethe,The Man of Fifty,1818,70
 Roger Collins,Early Medieval Europe 300-1000,1991,533
@@ -1178,11 +1066,9 @@ Michael Shaara,The Killer Angels,1974,13
 Elisabeth Tova Bailey,The Sound of a Wild Snail Eating,2010,208
 Henry Kissinger,On China,2011,608
 George Eliot,Felix Holt: The Radical,1866,545
-William Manchester,Winston Spencer Churchill The Last Lion Part 2 - Alone. 1932-40,1988,992
 Robert D. Kaplan,The Revenge of Geography,2012,432
 Mario Puzo,The Fortunate Pilgrim,1964,304
 Nancy Mitford,Voltaire in Love,1957,288
-David Barash,Revolutionary Biology - The New Gene- Centered View of Life,2001,222
 Robert K Massie,Catherine the Great,2011,625
 Elizabeth Bowen,The House in Paris,1935,269
 Mason Currey,Daily Rituals - How Artists Work,2013,278
@@ -1202,7 +1088,6 @@ Don DeLillo,Cosmopolis,2003,224
 Victoria Wilson,A Life of Barbara Stanwyck,2013,1044
 Julie Orringer,The Invisible Bridge,2010,786
 Jonathan Lethem,Dissident Gardens,2013,366
-"Ernst Fischer, Carol Lipson",Thinking About Science:Max Delbruck & the Origins of Molecular Biology,1988,0
 Marilynne Robinson,When I Was A Child I Read Books,2012,224
 Alice Munro,Dear Life,2012,336
 Louisa May Alcott,Little Women,1868,449
@@ -1248,7 +1133,6 @@ Rabbi Shalom Arush,The Garden of Peace,2008,150
 Erik Larson,The Devil in the White City,2003,447
 Paula Hawkins,The Girl on the Train,2015,325
 Oliver Sacks,The Last Interview,2016,220
-"Charles Nordhoff, James Norman Hall",Mutiny On the Bounty,1932,0
 John Sutherland,A Little History Of Literature,2013,276
 Frances Kroll Ring,Against The Current,1985,155
 James Baldwin,Giovanni's Room,1956,159
@@ -1256,7 +1140,6 @@ Jimmy Webb,The Cake And The Rain,2017,159
 J.D. Salinger,The Last Interview,2016,208
 Timothy Snyder,On Tyranny,2017,126
 Donald Trump,Trump The Art of the Deal,1986,384
-Joseph J. Ellis,American Sphinx: The Character Of Thomas Jefferson,1996,440
 James Baldwin,The Fire Next Time,1962,106
 John Julius Norwich,Four Princes,2016,304
 Lisa Hilton,Elizabeth,2014,400
@@ -1272,10 +1155,8 @@ Domenico Starnone,Ties,2014,150
 Michael Wolff,Fire and Fury,2018,322
 Craig Pittman,Oh Florida!,2016,320
 Madeleine Albright,Facism - a warning,2018,304
-Adele Faber & Elaine Mazlish,How to Talk So Kids Will Listen & How to Listen So Kids Will Talk,1980,286
 John Steinbeck,Of Mice and Men,1937,103
 Julian Barnes,The Sense of an Ending,2011,150
-Robert Hilburn,"Paul Simon, The Life",2018,0
 J. Edgar Hoover,Masters of Deceit,1958,384
 Gabriel Garcia Marquez,The Story of a Shipwrecked Sailor,1986,128
 Peter Catapano,Modern Ethics in 77 Arguments,2017,464
@@ -1294,18 +1175,14 @@ Bill Bryson,A Walk in the Woods,1981,397
 Naomi Klein,No Is Not Enough,2017,273
 Paul Collins,Duel With The Devil,2013,304
 Cliff Sims,Team of Vipers,2019,384
-"Jim Mattis, Bing West",Call Sign Chaos,2019,0
 Margaret Attwood,The Handmaid's Tale,1986,350
 Gelett Burgess,Have You an Educated Heart,1923,57
-David Talbot,"The Devil’s Chessboard, Allen Dulles, the CIA and the Rise of America’s Secret Government",704,0
 Erik Larson,The Splendid and the Vile,2020,546
 Viktor E. Frankl,Yes to Life,2019,144
-Sanford D. Greenberg,"Hello Darkness, My Old Friend",2020,0
 Mary L. Trump,Too Much and Never Enough,2020,236
 Doris Kearns Goodwin,Leadership,2020,397
 David Mikie,Stanley Kubrick,2020,248
 Julie Satow,The Plaza,2019,358
-Ash Carter and Sam Kashner,Life Isn’t Everything – Mike Nichols as Remembered by 150 of His Closest Friends ,2019,368
 Ruth Ben-Ghiat,Strongmen (Mussolini to the Present) ,2019,384
 Mark Harris,Mike Nichols A Life,2021,688
 David S. Brown,The Last American Aristocrat ,2020,464
@@ -1314,9 +1191,11 @@ Margaret MacMillan,Paris ,1919,624
 Charles Terry,The Music of Bach ,1963,100
 Bernard Shaw,Pygmalion ,1913,82
 Jo Giese,Never Sit if You Can Dance ,2019,144
-"Bob Woodward, Robert Costa",Peril ,2021,0
 Amor Towles,A Gentleman in Moscow ,2016,462
 Mel Brooks,All About Me! ,2021,480
 James Michener,Caravans ,1963,320
 Abraham Lincoln,The Spiritual Growth of a Public Man ,1973,47
-Joe Scarborough,Saving Freedom ,2020,272
+Hunter Davies,The Beatles,1968,340
+René Daumal,Mount Analogue,1952,106
+P.D. Ouspensky,The Strange Life of Ivan Osokin,1955,166
+F. Scott Fitzgerald,The Great Gatsby,1925,182
